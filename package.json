@@ -1,6 +1,6 @@
 {
   "name": "webauthn-cose",
-  "version": "0.7.0",
+  "version": "0.7.1",
   "description": "CBOR Object Signing and Encryption",
   "main": "lib/lib.js",
   "scripts": {
@@ -10,7 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "base64url": "^3.0.1",
-    "cbor": "^4.1.5",
-    "elliptic": "^6.5.3"
+    "cbor": "^6.0.1",
+    "elliptic": "^6.5.4"
   }
 }
